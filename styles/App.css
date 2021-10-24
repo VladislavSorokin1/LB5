@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.post {
+  margin: 20px;
+  position: relative;
+  display: inline-block;
+  background: #4bdf06;
+  border-radius: 10px;
+}
+
+.button {
+  border-radius: 200px;
+}
